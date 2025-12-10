@@ -1,0 +1,8 @@
+sentence-transformers>=3.0.0
+torchaudio>=2.4.0
+torch>=2.4.0
+librosa>=0.10.2
+praat-parselmouth>=0.4.3
+speechbrain>=0.5.16
+soundfile>=0.12.1
+numpy>=1.23
