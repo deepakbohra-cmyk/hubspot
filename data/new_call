@@ -1,0 +1,36 @@
+
+------ Feedback ------
+
+This new call's transcript provides some clear insights into its quality.
+
+### 1. What this call did well
+
+*   **Direct & Clear Customer Feedback:** The customer explicitly states, "meesho pe to mera koi work hi nahi hai sell karne ka mera kuch hai" and "i think im talking to a third party called amazon." This is very good from the customer's side, as it immediately clarifies their situation and prevents further misdirection, *if* the agent listens and responds appropriately.
+*   **Topic Focus:** Despite the initial confusion, the presence of words like "global," "add," "footwear," "size," "brand," "buyer," "third party," "listing" indicates that the conversation quickly zeroes in on specific e-commerce related topics (product listing, brand management, buyer interactions).
+*   **Lower Frequency of "Bad" Filler Words:** Many common Hindi words like 'hai', 'kar', 'se', 'to', 'ki', 'ek', 'aap', 'hum', 'ho', 'toh', 'kya' appear in the "New Call Words" list with significantly lower frequencies compared to their presence in "BAD CALL WORDS". This suggests less excessive rambling, stalling, or repetitive questioning that might lead to a negative experience.
+
+### 2. What it needs to improve
+
+*   **Initial Qualification & Platform Mismatch:** This is the most critical issue. The opening phrases ("i think im talking to a third party called amazon ah mai ye bol raha hu sir meesho pe to mera koi work hi nahi hai") clearly indicate that the call started on the wrong foot, potentially with the agent misidentifying the customer's platform or needs. This leads to immediate customer frustration and wasted time.
+*   **Addressing Negative Statements:** The phrase "nahi nahi nahi" (2 occurrences) suggests strong disagreement or frustration from the customer. The agent needs to effectively acknowledge and resolve the underlying reason for this strong negation rather than simply moving past it.
+*   **Clarity on "Kar Raha Hu":** While "kar raha hu" appears in both good and bad contexts (or similar variations like "kar rahe ho/hain"), its specific use in the new call ("kar raha hu sir", "kar raha hu") needs evaluation. If it's the agent, it could be them explaining actions. If it's the customer, it could be them stating what they are *already* doing, possibly pushing back on agent advice.
+*   **Proactive Problem Solving:** After the customer clarifies their platform, the agent should immediately shift focus and offer relevant assistance for their stated platform (Amazon) instead of potentially continuing on the wrong track.
+
+### 3. Missing Effective Phrases
+
+Based on the "GOOD CALL PHRASES," the new call is missing:
+
+*   **Acknowledgement and Empathy:** Phrases like "I understand," "Let me clarify," "Sorry for the confusion." (Hindi equivalents like `main samajh gaya`, `aapki baat sahi hai`). While "ji ji ji" and "okay okay okay" are good, "nahi nahi nahi" requires a more direct acknowledgement.
+*   **Positive Closing / Reassurance:** "Thank you so much," "Koi baat nahi," "We'll get this sorted for you." These help to end the call on a positive or reassuring note, especially after initial confusion.
+*   **Value Proposition / Clear Next Steps:** If this is a sales or support call for services, phrases like "a plus content," "provide complete account management services" (from good phrases) are missing. Similarly, clear "next steps" or "what is it" (implying 'what can I do for you') would be beneficial after the customer's clarification.
+*   **Effective Openings/Verifications:** Good openings like "good morning aapne dekh liya hai" are for checking understanding. For this call, a phrase like "Can I confirm which platform you're calling about?" or "Are you looking for support with Amazon?" would have been critical.
+
+### 4. Tone and Structure Feedback
+
+*   **Tone:** The call likely started with an **unaligned or potentially formal tone** that quickly turned into one of **clarification and mild frustration** (from the customer's side). The agent's initial approach might have been generic or misinformed, leading to the customer's strong corrective statements. The use of "sir" by the customer after stating their issue ("bol raha hu sir meesho pe to mera koi work hi nahi hai") can sometimes indicate a more formal or slightly exasperated tone.
+*   **Structure:**
+    *   **Poor Opening/Qualification:** The most evident structural flaw is the failure in the initial phase of the call. A good call structure begins with identification and qualification. Here, it seems the qualification was either skipped or incorrect, forcing the customer to take control and correct the agent.
+    *   **Reactive vs. Proactive:** The agent appears to be reacting to the customer's corrections rather than proactively understanding the customer's need from the outset.
+    *   **Lack of Redirection:** After the customer clarifies, the structure should immediately pivot to address the *correct* platform and needs. The phrases about "ticket size," "global add kar lo," "third party vendors" suggest an attempt to move forward, but the lingering presence of "nahi nahi nahi" indicates that the core issue of understanding and alignment might not have been fully resolved.
+
+**In summary:** While the call shows signs of attempting to move towards specific solutions (e-commerce features), it suffers from a fundamental flaw in its opening – a mismatch in understanding the customer's context. This likely led to a reactive, rather than proactive, conversation with elements of customer frustration. Improvement should focus on robust initial qualification and active listening to steer the conversation effectively from the very beginning.
