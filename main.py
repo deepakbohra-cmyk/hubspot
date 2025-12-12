@@ -5,6 +5,10 @@ from collections import Counter
 import google.generativeai as genai
 from nltk.corpus import stopwords
 import nltk
+from dotenv import load_dotenv
+
+
+load_dotenv()
 
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
@@ -28,7 +32,7 @@ hinglish_stopwords = {
 
 stop_words |= hindi_stopwords | hinglish_stopwords
 
-def load_calls(row_numbers, data_file="data.json"):
+def load_calls(row_numbers, data_file="data/data.json"):
     texts = []
     with open(data_file, "r", encoding="utf-8") as f:
         data = json.load(f)
