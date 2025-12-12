@@ -3,30 +3,8 @@ import re
 import json
 from collections import Counter
 import google.generativeai as genai
-from nltk.corpus import stopwords
-import nltk
 
 genai.configure(api_key="AIzaSyC5nxTcb0BGKNgLo1DnNDj2yuQsVoMlQLc")
-
-nltk.download('stopwords')
-
-stop_words = set(stopwords.words("english"))
-
-hindi_stopwords = {
-    "हां", "हाँ", "नहीं", "मत", "क्यों", "क्या", "कब", "कैसे",
-    "ठीक", "थोड़ा", "ज़्यादा", "कम", "आप", "हम", "वे", "यह", "वह",
-    "मेरी", "मेरा", "हमारा", "तुम", "तुम्हारा", "उसका"
-}
-
-hinglish_stopwords = {
-    "haan", "han", "nahi", "nai", "achha", "acha", "thik", "theek", "sir",
-    "madam", "please", "plz", "pls", "bol", "bata", "batau", "kar", "karo",
-    "krunga", "krungi", "karunga", "karungi", "mera", "meri", "mere",
-    "aap", "tum", "main", "mai", "mujhe", "mujhko", "tera", "teri",
-    "haanji", "ji", "haan ji", "ok", "okay", "thoda"
-}
-
-stop_words |= hindi_stopwords | hinglish_stopwords
 
 def load_calls(row_numbers, data_file="data.json"):
     texts = []
@@ -55,6 +33,7 @@ def get_frequent_words(text_list, top_n=30):
 
 good_words = get_frequent_words(good_calls)
 bad_words = get_frequent_words(bad_calls)
+
 
 def extract_phrases(text_list, n=3):
     phrases = Counter()
